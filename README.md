@@ -1,2 +1,2 @@
 # Portfolio
-A collection of personal and academic projects
+Collection of previous academic and personal projects
